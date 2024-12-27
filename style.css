@@ -2566,6 +2566,7 @@ a {
 
   .text-break-mobile {
     word-break: break-all;
+    line-height:1;
   }
 }
 
